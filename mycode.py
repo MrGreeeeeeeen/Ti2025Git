@@ -1,3 +1,3 @@
 print("my first line")
 print("my second line")
-print("made by JAP")
+print("once again master changed the edit from japan team")
