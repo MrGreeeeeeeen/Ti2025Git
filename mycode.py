@@ -7,5 +7,6 @@ print("change for the thride commit");
 print("change for the fourt commit");
 print("change for the five commit");
 
-print("1")
-print("2")
+print("commit A")
+print("commit B")
+
